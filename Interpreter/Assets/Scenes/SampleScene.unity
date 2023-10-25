@@ -815,7 +815,7 @@ MonoBehaviour:
   m_text: 'This demo parses text to create and evaluate expressions using the interpretor
     pattern.
 
-    You can use ''*'', ''/'', ''+'' and ''-'' but no pararenthesis.
+    You can use ''*'', ''/'', ''+'' and ''-'' but no parentheses.
 
     Be
     sure to space out each character.'
